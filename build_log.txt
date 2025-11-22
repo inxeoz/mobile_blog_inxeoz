@@ -1,0 +1,151 @@
+Initialized native services in: /home/inxeoz/.gradle/native
+Initialized jansi services in: /home/inxeoz/.gradle/native
+Received JVM installation metadata from '/usr/lib/jvm/java-17-openjdk': {JAVA_HOME=/usr/lib/jvm/java-17-openjdk, JAVA_VERSION=17.0.17, JAVA_VENDOR=Arch Linux, RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.17+10, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.17+10, VM_VENDOR=Arch Linux, OS_ARCH=amd64}
+The client will now receive all logging from the daemon (pid: 1136253). The daemon log file: /home/inxeoz/.gradle/daemon/8.2/daemon-1136253.out.log
+Starting 2nd build in daemon [uptime: 1 mins 54.253 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 512 MiB, non-heap usage: 23% of 384 MiB]
+Using 8 worker leases.
+Now considering [/home/inxeoz/.gemini/antigravity/scratch/blog_app] as hierarchies to watch
+Watching the file system is configured to be enabled if available
+File system watching is active
+Starting Build
+The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+Settings evaluated using settings file '/home/inxeoz/.gemini/antigravity/scratch/blog_app/settings.gradle.kts'.
+Projects loaded. Root project using build file '/home/inxeoz/.gemini/antigravity/scratch/blog_app/build.gradle.kts'.
+Included projects: [root project 'BlogApp', project ':app']
+
+> Configure project :
+Evaluating root project 'BlogApp' using build file '/home/inxeoz/.gemini/antigravity/scratch/blog_app/build.gradle.kts'.
+The configuration detachedConfiguration1 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration detachedConfiguration1 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration detachedConfiguration1 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration detachedConfiguration1 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration detachedConfiguration2 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration detachedConfiguration2 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration detachedConfiguration2 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration detachedConfiguration2 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+
+> Configure project :app
+Evaluating project ':app' using build file '/home/inxeoz/.gemini/antigravity/scratch/blog_app/app/build.gradle.kts'.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+Using default execution profile
+Using Kotlin Gradle Plugin gradle76 variant
+Caching disabled for Kotlin DSL accessors for project ':app' because:
+  Build cache is disabled
+Skipping Kotlin DSL accessors for project ':app' as it is up-to-date.
+All projects evaluated.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+The configuration :app:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+The configuration :app:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+Task name matched 'assembleDebug'
+Selected primary task 'assembleDebug' from project :
+Tasks to be executed: [task ':app:preBuild', task ':app:preDebugBuild', task ':app:mergeDebugNativeDebugMetadata', task ':app:checkDebugAarMetadata', task ':app:generateDebugResValues', task ':app:mapDebugSourceSetPaths', task ':app:generateDebugResources', task ':app:mergeDebugResources', task ':app:packageDebugResources', task ':app:parseDebugLocalResources', task ':app:createDebugCompatibleScreenManifests', task ':app:extractDeepLinksDebug', task ':app:processDebugMainManifest', task ':app:processDebugManifest', task ':app:processDebugManifestForPackage', task ':app:processDebugResources', task ':app:compileDebugKotlin', task ':app:javaPreCompileDebug', task ':app:compileDebugJavaWithJavac', task ':app:mergeDebugShaders', task ':app:compileDebugShaders', task ':app:generateDebugAssets', task ':app:mergeDebugAssets', task ':app:compressDebugAssets', task ':app:processDebugJavaRes', task ':app:mergeDebugJavaResource', task ':app:checkDebugDuplicateClasses', task ':app:desugarDebugFileDependencies', task ':app:mergeExtDexDebug', task ':app:mergeLibDexDebug', task ':app:dexBuilderDebug', task ':app:mergeProjectDexDebug', task ':app:mergeDebugJniLibFolders', task ':app:mergeDebugNativeLibs', task ':app:stripDebugDebugSymbols', task ':app:validateSigningDebug', task ':app:writeDebugAppMetadata', task ':app:writeDebugSigningConfigVersions', task ':app:packageDebug', task ':app:createDebugApkListingFileRedirect', task ':app:assembleDebug']
+Tasks that were excluded: []
+Resolve mutations for :app:preBuild (Thread[Execution worker,5,main]) started.
+:app:preBuild (Thread[Execution worker,5,main]) started.
+
+> Task :app:preBuild UP-TO-DATE
+Skipping task ':app:preBuild' as it has no actions.
+Resolve mutations for :app:preDebugBuild (Thread[Execution worker,5,main]) started.
+:app:preDebugBuild (Thread[Execution worker,5,main]) started.
+
+> Task :app:preDebugBuild UP-TO-DATE
+Skipping task ':app:preDebugBuild' as it has no actions.
+Resolve mutations for :app:mergeDebugNativeDebugMetadata (Thread[Execution worker,5,main]) started.
+:app:mergeDebugNativeDebugMetadata (Thread[Execution worker,5,main]) started.
+
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+Skipping task ':app:mergeDebugNativeDebugMetadata' as it has no source files and no previous output files.
+Resolve mutations for :app:checkDebugAarMetadata (Thread[Execution worker,5,main]) started.
+:app:checkDebugAarMetadata (Thread[Execution worker,5,main]) started.
+
+> Task :app:checkDebugAarMetadata FAILED
+Watching 1 directories to track changes
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:checkDebugAarMetadata'.
+> Configuration `:app:debugRuntimeClasspath` contains AndroidX dependencies, but the `android.useAndroidX` property is not enabled, which may cause runtime issues.
+  Set `android.useAndroidX=true` in the `gradle.properties` file and retry.
+  The following AndroidX dependencies are detected:
+  :app:debugRuntimeClasspath -> androidx.core:core-ktx:1.9.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.annotation:annotation:1.5.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.core:core:1.9.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.core:core:1.9.0 -> androidx.annotation:annotation-experimental:1.3.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.collection:collection:1.1.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.core:core:1.9.0 -> androidx.concurrent:concurrent-futures:1.1.0
+  :app:debugRuntimeClasspath -> androidx.compose.material3:material3:1.0.0 -> androidx.lifecycle:lifecycle-runtime:2.6.2
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0 -> androidx.lifecycle:lifecycle-process:2.6.2 -> androidx.lifecycle:lifecycle-livedata-core:2.6.2 -> androidx.arch.core:core-common:2.2.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0 -> androidx.lifecycle:lifecycle-process:2.6.2 -> androidx.lifecycle:lifecycle-livedata-core:2.6.2 -> androidx.arch.core:core-runtime:2.2.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0 -> androidx.lifecycle:lifecycle-process:2.6.2 -> androidx.lifecycle:lifecycle-livedata-core:2.6.2 -> androidx.lifecycle:lifecycle-common:2.6.2
+  :app:debugRuntimeClasspath -> androidx.lifecycle:lifecycle-runtime-ktx:2.6.2
+  :app:debugRuntimeClasspath -> androidx.compose.material3:material3:1.0.0 -> androidx.lifecycle:lifecycle-viewmodel:2.6.2
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0 -> androidx.lifecycle:lifecycle-process:2.6.2 -> androidx.lifecycle:lifecycle-livedata-core:2.6.2
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0 -> androidx.lifecycle:lifecycle-process:2.6.2
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0 -> androidx.startup:startup-runtime:1.1.1
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.tracing:tracing:1.0.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.savedstate:savedstate:1.2.1
+  :app:debugRuntimeClasspath -> androidx.compose.material3:material3:1.0.0 -> androidx.savedstate:savedstate-ktx:1.2.1
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.profileinstaller:profileinstaller:1.3.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.core:core:1.9.0 -> androidx.versionedparcelable:versionedparcelable:1.1.1
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity:1.8.0 -> androidx.activity:activity-ktx:1.8.0
+  :app:debugRuntimeClasspath -> androidx.activity:activity-compose:1.8.0 -> androidx.activity:activity-ktx:1.8.0 -> androidx.activity:activity:1.8.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.runtime:runtime:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.runtime:runtime-saveable:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose.ui:ui:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose.ui:ui:1.4.0 -> androidx.autofill:autofill:1.0.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.ui:ui-geometry:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.ui:ui-util:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose.ui:ui-graphics:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.ui:ui-unit:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.ui:ui-text:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0 -> androidx.emoji2:emoji2:1.3.0
+  :app:debugRuntimeClasspath -> androidx.compose.ui:ui-tooling-preview:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose.ui:ui:1.4.0 -> androidx.customview:customview-poolingcontainer:1.0.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.animation:animation:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.animation:animation-core:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.foundation:foundation-layout:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00
+  :app:debugRuntimeClasspath -> androidx.compose.material3:material3:1.0.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.material:material-icons-core:1.4.0
+  :app:debugRuntimeClasspath -> androidx.compose:compose-bom:2023.03.00 -> androidx.compose.material:material-ripple:1.4.0
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 913ms
+1 actionable task: 1 executed
